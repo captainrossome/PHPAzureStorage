@@ -8,7 +8,7 @@ Sample Application for PHP and Azure Storage
 4. Upload source code via FTP
 5. Install Composer for Laravel App  
   a) Under the Web App Options click Extensions > ADD (to add an Extension)  
-  b) Select Composer in the Choose Extension Blade (blade: a portal page that opens horizontally).  
+  b) Select "Composer" in the Choose Extension Blade (blade: a portal page that opens horizontally).  
   c) Click OK in the Accept legal terms blade.    
   d) Click OK in the Add extension blade.    
 6. Setup Application Settings    
