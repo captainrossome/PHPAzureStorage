@@ -6,7 +6,7 @@ Sample Application for PHP and Azure Storage
 2. Change the Azure Storage settings "connectionString" in AzureController.php in app\Http\Controllers to your storage settings.
 3. Create your MySQL Database in Azure.
 4. The code uses a MySQL version of the Northwind database found here:
-   https://code.google.com/archive/p/northwindextended/downloads (Northwind.MySQL5.sql)
+   https://code.google.com/archive/p/northwindextended/downloads (Northwind.MySQL5.sql)   
    Run the above script on your MySQL instance to create the database.  
 3. Change the database config info in config/database.php and root/.env to match your database details.
 4. Upload source code via FTP
